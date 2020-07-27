@@ -45,3 +45,8 @@ Exploding animated object
 Sound - timer
 
 CSS Frameworks
+
+
+## License
+
+* [MIT](https://opensource.org/licenses/MIT)
